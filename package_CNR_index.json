@@ -13,7 +13,7 @@
           "name": "CNRDuino",
           "architecture": "avr",
           "version": "1.0",
-          "category": "CNR",
+          "category": "Contributed",
           "help": {
             "online": "https://github.com/cemtaskent/CNR"
           },
