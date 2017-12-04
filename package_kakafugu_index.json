@@ -14,16 +14,12 @@
           "architecture": "avr",
           "version": "1.0",
           "category": "Akafugu",
-          "url": "http://github.com/akafugu/akafugu_core/releases/download/1.0/akafugu-1.0.tar.bz2",
-          "archiveFileName": "akafugu-1.0.tar.bz2",
-          "checksum": "SHA-256:9c0585d97ff9ab4ee38a2d648d613559d241a14f9fbba5306c8c6a5857fa79b7",
-          "size": "6522",
+          "url": "https://github.com/cemtaskent/CNR/blob/master/cnr.zip",
+          "archiveFileName": "cnr.zip",
+          "checksum": "SHA-256:07BF1FA9BF26F12473E711047875DDB7956E085AA90F52B2742151D06A704BD6",
+          "size": "5675",
           "boards": [
-            {"name": "Akafugu Breadboard Adapter (Internal 8MHz Clock)"},
-            {"name": "Akafugu Breadboard Adapter (External 16MHz Clock)"},
-            {"name": "Akafuino L"},
-            {"name": "Akafugu SimpleClock"},
-            {"name": "Akafugu Nixie Clock"}
+            {"name": "CNRDuino"}
           ]
         }
       ],
