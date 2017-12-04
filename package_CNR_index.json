@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/cemtaskent/CNR/blob/master/cnr.rar",
           "archiveFileName": "cnr.rar",
-          "checksum": "SHA-256:d2f08b19a85e2ac1fbdf8fb16d00d43a70c1bbc6",
+          "checksum": "SHA-256:140ECE537426B32A992CED942287A723895CD214F41935B1AF9EDD0000C51209",
           "size": "5263",
           "boards": [
             {"name": "CNRDuino"}
