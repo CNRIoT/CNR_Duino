@@ -1,6 +1,6 @@
 ﻿# CNRduino Industrial
 
-![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/20180604_031202.jpg)
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/cnrduino-inside-mono-400.png)
 
 Arduino IDE'ye kartı eklemek için....
 Zip dosyasını indirin ve açın .....
