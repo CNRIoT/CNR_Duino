@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "cnrDuino",
+      "maintainer": "CNR Ltd",
+      "websiteURL": "https://github.com/cemtaskent/CNR",
+      "email": "cemtaskent@yahoo.com",
+      "help": {
+        "online": "https://github.com/cemtaskent/CNR"
+      },
+      "platforms": [
+        {
+          "name": "CNRDuino",
+          "architecture": "avr",
+          "version": "1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://github.com/cemtaskent/CNR"
+          },
+          "url": "https://github.com/cemtaskent/CNR/blob/master/cnr.zip",
+          "archiveFileName": "cnr.zip",
+          "checksum": "SHA-256:fabdbb43e30087cf8047e46c5cd7ce942a96ece1f9be84323633fc06e1b95d6c",
+          "size": "5670",
+          "boards": [
+            {"name": "CNRDuino"}
+          ]
+		  }
+		  ],
+ "toolsDependencies": [
+        {
+          "packager": "arduino",
+          "name": "avr-gcc",
+          "version": "4.8.1-arduino5"
+        },
+        {
+          "packager": "arduino",
+          "name": "avrdude",
+          "version": "6.0.1-arduino5"
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
