@@ -1,7 +1,7 @@
 DOSYALAR
 ===========================================
-- CNRDuino'yu arduino IDE'ye tanıtmak için CNR.zip dosyasını indirin, daha sonra pdf_dökümanlar klasöründeki pdf'yi takip edin.
-https://github.com/CNRIoT/CNR_Duino/blob/master/pdf_d%C3%B6k%C3%BCmanlar/CNRDuino_Arduino_IDE_y%C3%BCkleme.pdf
+- CNRDuino'yu arduino IDE'ye tanıtmak için [CNR.zip](https://github.com/CNRIoT/CNR_Duino/blob/master/dosyalar/cnr.zip) dosyasını indirin, daha sonra pdf_dökümanlar klasöründeki [pdf](https://github.com/CNRIoT/CNR_Duino/blob/master/pdf_d%C3%B6k%C3%BCmanlar/CNRDuino_Arduino_IDE_y%C3%BCkleme.pdf)'yi takip edin.
+
 
 - Atmega2560'daki PIN karşılıkları için https://github.com/CNRIoT/CNR_Duino/blob/master/dosyalar/ComBoard-V02-ATMEGA2560-PIN%20(1).xlsx
 indirin
