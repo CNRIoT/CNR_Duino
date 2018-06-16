@@ -24,4 +24,11 @@ kullanılabilecek bir karttır.
 - RFID kullanımı (Rc522)
 - Kart üzerinde 6 adet button. 
 
+# IÇ BAGLANTILAR:
+![alt text] (https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/cnrduino-inside-mono-400.jpg)
 
+# KENAR BAGLANTILAR:
+![alt text] (https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/cnrduino-edge-mono-400.jpg)
+
+# SHIELD BAĞLANTILARI:
+![alt text] (https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/cnrduino-shield-mono-400.jpg)
