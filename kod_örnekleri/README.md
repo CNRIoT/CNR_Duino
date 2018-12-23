@@ -1,6 +1,7 @@
 KOD ÖRNEKLERİ
 ===========================================
-- CNRDuino ile ilgili kod örnekleri burada olacak...
-Gerekli kütüphaneler klasörlerin içinde src klasöründe bulunmaktadır. 
-Dolayısıyle aksi belirtilmedikce kodu derlemek için kütüphane indirmenize gerek yoktur. 
-Kodları sıkıştırılmış olarak indirmek için zipli_dosyalar klasörünü kullanabilirsiniz. 
+- CNRDuino Ehdüstriyel ile ilgili kod örnekleri burada bulabilirsiniz...
+Klasörler sıkıştırılmış olarak indirip kullanılmaya başlanabilir. 
+Bazı kodların kütüphaneleri klasörün içindedir. Dolayısıyla bunlar için ayrıca kütüphane indirmenize gerek yoktur. 
+SRC klasörü bulunmayan kod örnekleri için ilgili kütüphanelerin indirilmesi gerekir. 
+Kütüphaneler klasörünü toptan indirip Arduino IDE klasörünüzün libraries konumuna yüklemenizi tavsiye ederiz. 
