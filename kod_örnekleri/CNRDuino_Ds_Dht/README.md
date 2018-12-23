@@ -1,6 +1,12 @@
-KOD ÖRNEKLERİ
+DS18b20 / DHT22 TEST YAZILIMI 
 ===========================================
-- CNRDuino ile ilgili kod örnekleri burada olacak...
-Gerekli kütüphaneler klasörlerin içinde src klasöründe bulunmaktadır. 
-Dolayısıyle aksi belirtilmedikce kodu derlemek için kütüphane indirmenize gerek yoktur. 
-Kodları sıkıştırılmış olarak indirmek için zipli_dosyalar klasörünü kullanabilirsiniz. 
+
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/dht22.jpg)
+
+IR Test yazılımı
+
+# TANIM
+Ds18b20 ISI ve DHT 22 ısı/nem verilerini LCD'ye yazar. 
+
+# NOT: Ds18b20 ve DHT22/11'in konumları resimdeki gibi olmalıdır. 
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/ds.jpg)

@@ -1,6 +1,13 @@
-KOD ÖRNEKLERİ
+IR TEST YAZILIMI 
 ===========================================
-- CNRDuino ile ilgili kod örnekleri burada olacak...
-Gerekli kütüphaneler klasörlerin içinde src klasöründe bulunmaktadır. 
-Dolayısıyle aksi belirtilmedikce kodu derlemek için kütüphane indirmenize gerek yoktur. 
-Kodları sıkıştırılmış olarak indirmek için zipli_dosyalar klasörünü kullanabilirsiniz. 
+
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/IR_KOD.jpg)
+
+IR Test yazılımı
+
+# TANIM
+Herhangi bir kumandanın IR kodlarını yakalayıp LCD ekrana yazdırır... 
+Aynı zamanda her kod alımında buzzer öter. 
+
+# NOT: IR'nin konumu resimdeki gibi olmalıdır.  
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/IR.jpg)
