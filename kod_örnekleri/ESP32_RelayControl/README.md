@@ -1,13 +1,15 @@
-IR TEST YAZILIMI 
+﻿ESP32 Server - Röle Kontrolü
 ===========================================
 
-![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/IR_KOD.jpg)
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/esp32_relay.jpg)
 
-IR Test yazılımı
+ESP32 SERVER
 
 # TANIM
-Herhangi bir kumandanın IR kodlarını yakalayıp LCD ekrana yazdırır... 
-Aynı zamanda her kod alımında buzzer öter. 
+ESP32 üzerinde kurulu bir server vasıtasıyla CNRDuino üzerindeki röleleri kontrol
+edebilirsiniz. 
 
-# NOT: IR'nin konumu resimdeki gibi olmalıdır.  
-![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/IR.jpg)
+ 
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/ESP_webserver.jpg)
+
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/server.jpg)
