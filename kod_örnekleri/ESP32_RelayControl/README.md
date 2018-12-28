@@ -12,4 +12,4 @@ edebilirsiniz.
  
 ![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/ESP_webserver.jpg)
 
-![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/server2.jpg)
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/server4.jpg)
