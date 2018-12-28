@@ -9,6 +9,7 @@ ESP32 SERVER
 ESP32 üzerinde kurulu bir server vasıtasıyla CNRDuino üzerindeki röleleri kontrol
 edebilirsiniz. 
 
-https://youtu.be/on724mUnwsY 
+[![Watch the video](https://i.ytimg.com/vi/on724mUnwsY/hqdefault.jpg)](https://youtu.be/on724mUnwsY)
+
 
 ![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/server4.jpg)
