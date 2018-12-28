@@ -8,6 +8,7 @@ ESP32 SERVER
 # TANIM
 ESP32 üzerinde kurulu bir server vasıtasıyla CNRDuino üzerindeki röleleri kontrol
 edebilirsiniz. 
+Video'yu izlemek için aşağıdaki resmin üzerine tıklayın. 
 
 [![Watch the video](https://i.ytimg.com/vi/on724mUnwsY/hqdefault.jpg)](https://youtu.be/on724mUnwsY)
 
