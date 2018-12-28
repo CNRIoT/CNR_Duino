@@ -1,7 +1,7 @@
 ﻿ESP32 Server - Röle Kontrolü
 ===========================================
 
-![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/esp32_relay.jpg)
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/esp32_relay2.jpg)
 
 ESP32 SERVER
 
@@ -12,4 +12,4 @@ edebilirsiniz.
  
 ![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/ESP_webserver.jpg)
 
-![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/server.jpg)
+![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/server2.jpg)
