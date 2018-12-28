@@ -10,6 +10,5 @@ ESP32 üzerinde kurulu bir server vasıtasıyla CNRDuino üzerindeki röleleri k
 edebilirsiniz. 
 
  
-![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/ESP_webserver.jpg)
 
 ![alt text](https://github.com/CNRIoT/CNR_Duino/blob/master/resimler/server4.jpg)
